@@ -1,6 +1,6 @@
 # 3mmAB
 
-![Alt text](image1.png?raw=true "Title")
+![Alt text](image.png?raw=true "Title")
 
 Needed extras:  
   
