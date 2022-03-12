@@ -4,4 +4,6 @@
 
 Needed extras:  
 
-BMG gear set, as used in original AB
+BMG gear set, as used in original AB  
+
+Use the spreadsheet in the freeCAD file to make adjustments
